@@ -241,6 +241,8 @@ ssh -i demo-key.pem ubuntu@10.0.2.128
 From Private EC2:
 
 
+Dev-https://dev.to/irfanpasha/hosting-a-static-website-on-amazon-s3-step-by-step-26k9
+
 
 ping google.com
 
